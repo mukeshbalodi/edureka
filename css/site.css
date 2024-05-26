@@ -131,4 +131,12 @@
                 max-width: 630px;
                 min-width: 630px;
             }
+            .new_a1{
+                max-width: 60px;
+                min-width: 64px;
+            }
+            .new_a12{
+                max-width: 50px;
+                min-width: 39px;
+            }
         }
