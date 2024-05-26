@@ -131,7 +131,6 @@
                 max-width: 630px;
                 min-width: 630px;
             }
-<<<<<<< HEAD
             .new_a2{
                 max-width: 6350px;
                 min-width: 6370px;
@@ -139,7 +138,6 @@
             .new_a2{
                 max-width: 530px;
                 min-width: 730px;
-=======
             .new_a1{
                 max-width: 60px;
                 min-width: 64px;
@@ -147,6 +145,6 @@
             .new_a12{
                 max-width: 50px;
                 min-width: 39px;
->>>>>>> a1
             }
         }
+    }
